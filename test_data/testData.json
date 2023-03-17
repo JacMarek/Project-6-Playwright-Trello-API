@@ -1,0 +1,13 @@
+{
+  "organizationId": "63866601829e1b059ba02b5d",
+  "key": "7a02371145c22380f9fc942dfdb88d42",
+  "token": "b1224c6137b08e2289354e7166d32dc1997f2a97b90408d081e3912d302e8003",
+  "login": "jacek.marek.waw@gmail.com",
+  "pass": "Alfa1234!",
+  "baseURL": "https://api.trello.com",
+  "boardsEndpoint": "1/boards/",
+  "listsEndpoint": "1/lists/",
+  "cardsEndpoint": "1/cards/",
+  "organizationsEndpoint": "1/organizations/",
+  "boardColors": ["purple", "pink", "lime", "sky", "grey"]
+}
